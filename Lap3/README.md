@@ -1,14 +1,21 @@
 Университет: [Университет ИТМО](https://itmo.ru/ru/)
+
 Факультет: [ФИКТ](https://fict.itmo.ru)
+
 Курс: [Введение в распределенные технологии](https://github.com/itmo-ict-faculty/introduction-to-distributed-technologies)
+
 Год: 2024/2025
+
 Группа: K4110c
+
 Автор: Буй Ань Туан
+
 Лаборатория: Lab 3
 #
 
 ## ЦЕЛЬ:
 Ознакомиться с сертификатами и «секретами» в Minikube, безопасное хранение данных в Minikube.
+
 ## ХОД РАБОТЫ:
 ### 1. Создание карты конфигурации с 2 переменными REACT_APP_USERNAME и REACT_APP_COMPANY_NAME
 ```
